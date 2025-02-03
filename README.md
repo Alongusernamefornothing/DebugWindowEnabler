@@ -1,5 +1,5 @@
 # DebugWindowRewritten
-Can a Debug Window in Sebs SW CV using one DLL.
+Did you know that a Debug Window exists in Sebs SW CV. Use can start it by using a dll.
 ## Supported versions
 DebugWindowRewritten does works with Sebs SW CV 3.5.* and newer
 ## Unsupported versions
