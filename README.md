@@ -1,4 +1,4 @@
-# DebugWindowEnabler
+# DebugWindowRewritten
 Can a Debug Window in Sebs SW CV using one DLL.
 ## Supported versions
  Sebs SW CV 3.1.* - 3.3.*
