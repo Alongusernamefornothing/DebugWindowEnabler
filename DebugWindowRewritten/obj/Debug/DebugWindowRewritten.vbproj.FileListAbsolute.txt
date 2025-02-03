@@ -1,0 +1,18 @@
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\DebugWindowRewritten.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\DebugWindowRewritten.pdb
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\DebugWindowRewritten.xml
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\Sebs SW CV.exe
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\VersionManager.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.Form1.resources
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.Resources.resources
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.vbproj.CopyComplete
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.dll
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.xml
+C:\Users\Sebastian\source\repos\DebugWindowRewritten\DebugWindowRewritten\obj\Debug\DebugWindowRewritten.pdb
