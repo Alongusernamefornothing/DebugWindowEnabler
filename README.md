@@ -7,4 +7,4 @@ Versions 3.0 and older does not have a Debug Window.
 ## Debug Window does not exist on 3.5
 Insiders of Sebs SW CV have said to me that the Form that is needed does not exist on builds newer then 3.5.0.456.
 ## Trying to fix it on 3.5
-I'll try to mod the existing dll file to readd it. I'll do my own rewrite of the code soon.
+Found out that the form does still exist. but under the name "ProgramTester"
